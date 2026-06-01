@@ -21,9 +21,7 @@ tectonic relatorio.tex
 tectonic slides.tex
 ```
 
-## Prints pendentes (capturar e colar no PDF)
-Substitua os placeholders `[print de ... aqui]` pelos prints dos links abaixo:
-
+## Pontos Importantes
 - Issue com discussao e mudanca de escopo: https://github.com/langfuse/langfuse/issues/13933
 - TODOs em filas criticas:
   - https://github.com/langfuse/langfuse/blob/main/worker/src/queues/otelIngestionQueue.ts#L215-L219
